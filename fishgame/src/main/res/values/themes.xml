@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Project" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 여기에 필요한 색상, 폰트, 스타일 추가 -->
+    </style>
+</resources>
